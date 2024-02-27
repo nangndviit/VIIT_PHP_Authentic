@@ -18,7 +18,4 @@ if (mysqli_num_rows($kq) > 0) {
     }
 }
 
-
-
-
 ?>

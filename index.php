@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Authentic - Shoes</title>
+    <title>PHP - Authentic - Shoes</title>
     <meta name="title" content />
 
     <link rel="shortcut icon" href="https://png.pngtree.com/png-clipart/20220911/original/pngtree-letter-s-logo-vector-design-png-image_8545049.png" type="image/svg+xml" />
@@ -223,14 +223,7 @@ include("connet.php");
                         ?>
                     </div>
                 </div>
-                <div class="image_res" style="
-              overflow: hidden;
-              max-height: 300px;
-              height: 100%;
-              display: flex;
-              justify-content: center;
-              align-items: center;
-            ">
+                <div class="image_res" style="overflow: hidden; max-height: 300px; height: 100%; display: flex; justify-content: center; align-items: center;">
                     <img style="width: 100%; height: 100%; object-fit: cover" src="https://cdn.authentic-shoes.com/wp-content/uploads/2023/09/Adidas-Yeezy-Slide-2048x648.webp" alt />
                 </div>
             </section>
@@ -255,14 +248,7 @@ include("connet.php");
                             <i class="fa-solid fa-angle-right"></i>
                         </button>
                     </div>
-                    <div class="image_res" style="
-              overflow: hidden;
-              max-height: 300px;
-              height: 100%;
-              display: flex;
-              justify-content: center;
-              align-items: center;
-            ">
+                    <div class="image_res" style="overflow: hidden; max-height: 300px; height: 100%; display: flex; justify-content: center; align-items: center;">
                         <img style="width: 100%; height: 100%; object-fit: cover" src="https://cdn.authentic-shoes.com/wp-content/uploads/2023/11/retro-4-olive-3-1-2048x1331.webp" alt />
                     </div>
                 </div>
@@ -289,14 +275,7 @@ include("connet.php");
                         <i class="fa-solid fa-angle-right"></i>
                     </button>
                 </div>
-                <div class="image_res" style="
-              overflow: hidden;
-              max-height: 300px;
-              height: 100%;
-              display: flex;
-              justify-content: center;
-              align-items: center;
-            ">
+                <div class="image_res" style="overflow: hidden; max-height: 300px; height: 100%; display: flex; justify-content: center; align-items: center;">
                     <img style="width: 100%; height: 100%; object-fit: cover" src="https://bazaarvietnam.vn/wp-content/uploads/2022/09/top-3-thuong-hieu-giay-sneaker-noi-dia-duoc-long-gioi-tre-viet-8.jpg" alt />
                 </div>
             </section>
